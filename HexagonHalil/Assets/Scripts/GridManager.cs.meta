@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b1c1a637ed7d9e948bb15eb52ea97470
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hexPrefab: {instanceID: 0}
+  - hexParent: {instanceID: 0}
+  - outParent: {instanceID: 0}
+  - outlineSprite: {instanceID: 0}
+  - hexagonSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
